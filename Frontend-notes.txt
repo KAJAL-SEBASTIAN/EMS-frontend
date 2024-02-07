@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+
+       9. API Fetching
+
+        install Axios - npm i axios
+
+       ->Admin.jsx - For getting all the employees details
+
+       -Create a function - fetchData
+       -Create a useEffect used to call function
+       -Create a useState - for holding employees details
+       -Display the details in the table
